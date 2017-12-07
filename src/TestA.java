@@ -8,6 +8,8 @@ public class TestA {
 		System.out.println("TestA 8081 init");
 		
 		
+		System.out.println("TestA 8080 init");
+		
 	}
 
 }
